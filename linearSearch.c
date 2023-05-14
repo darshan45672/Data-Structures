@@ -22,7 +22,6 @@ int main(void){
     scanf("%d",&n);
     printf("Enter the values \n");
     for (int i = 0; i < n; i++){
-        /* code */
         scanf("%d",&a[i]);
     }
     printf("Enter the item to be searched\n");
