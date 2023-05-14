@@ -35,6 +35,5 @@ int main(void){
     }else{
         printf("Item found!!\n");
     }
-    
  return 0;
 }
