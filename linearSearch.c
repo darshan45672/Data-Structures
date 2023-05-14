@@ -29,7 +29,6 @@ int main(void){
 
     pos=linear(key, a, n);
     if (pos==-1){
-        /* code */
         printf("\nItem not found!!\n");
     }else{
         printf("Item found!!\n");
